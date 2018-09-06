@@ -1,0 +1,181 @@
+{"version":3,"sources":["./src/$_lazy_route_resource lazy","./src/app/app.component.ts","./src/app/app.module.ts","./src/app/demo.service.ts","./src/main.ts"],"names":[],"mappings":"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","file":"main.bundle.js","sourcesContent":["function webpackEmptyAsyncContext(req) {\n\t// Here Promise.resolve().then() is used instead of new Promise() to prevent\n\t// uncatched exception popping up in devtools\n\treturn Promise.resolve().then(function() {\n\t\tthrow new Error(\"Cannot find module '\" + req + \"'.\");\n\t});\n}\nwebpackEmptyAsyncContext.keys = function() { return []; };\nwebpackEmptyAsyncContext.resolve = webpackEmptyAsyncContext;\nmodule.exports = webpackEmptyAsyncContext;\nwebpackEmptyAsyncContext.id = \"./src/$$_lazy_route_resource lazy recursive\";\n\n\n//////////////////\n// WEBPACK FOOTER\n// ./src/$$_lazy_route_resource lazy\n// module id = ./src/$$_lazy_route_resource lazy recursive\n// module chunks = main","import {Component} from '@angular/core';\nimport {DemoService} from './demo.service';\nimport {Observable} from 'rxjs/Rx';\nimport { Account } from './account';\n\n@Component({\n  selector: 'demo-app',\n  template:`<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.min.js" ></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular-route.js" ></script>
+    <script type="text/javascript" src="app.js"></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+   <link href="https://fonts.googleapis.com/css?family=Ubuntu:400,400i,700,700i" rel="stylesheet">
+
+   <style type="text/css">
+
+   .body{
+     word-wrap: break-word;
+     text-align: center;
+     font-family: 'Ubuntu', sans-serif;
+   }
+
+   .a{
+     color:#000;
+   }
+
+   .a:hover{
+     text-decoration-line: underline;
+     color:black;
+   }
+
+   .container{
+     margin-top:80px;
+     margin-left: auto;
+   }
+
+
+   #left-side{
+     height:340px;
+     background: linear-gradient(#E2F9F2,#DAF7FB);
+     color:#292B2C;
+     width:100%;
+     text-align: center;
+     font-family: 'Ubuntu', sans-serif;
+     border-radius: 38px 0px 0px 0px;
+   }
+
+   #left-side:hover{
+   }
+
+   #logo{
+     font-size: 20px;
+     text-align: center;
+     width:90%;
+     padding-left: 5%;
+     font-weight: bold;
+     padding-top:150px;
+   }
+
+
+
+   #logo-info{
+     padding-top:20px;
+     font-size: 14px;
+     text-align: center;
+     width:90%;
+     padding-left: 5%;
+   }
+
+   #logo-info:hover{
+   }
+
+
+
+   #right-side{
+     height:340px;
+     background-color: white;
+     width:100%;
+     text-align: left;
+     font-family: 'Ubuntu', sans-serif;
+     border-style: solid;
+     border-color: #292B2C;
+     border-radius: 0px 0px 38px 0px;
+     border-width: thin;
+     padding-left: 20px;
+     padding-right: 20px;
+
+   }
+
+   .title{
+     font-size: 19px;
+     font-weight: bold;
+     padding-bottom: 10px;
+     padding-top: 20px;
+   }
+
+
+   .createAcc{
+     justify-content: right;
+     padding-top: -29px;
+   }
+
+
+
+
+   </style>
+
+
+
+ </head>
+ <body ng-app="app">
+
+   <div ng-view>
+
+   </div>
+
+ <div class="container">
+   <div class="row">
+
+     <div class="col-sm-2">
+     </div>
+
+
+
+       <div class="col-sm-4">
+
+             <div id="left-side">
+               <div id="logo">
+                 make an account today
+               </div>
+               <div id="logo-info">
+                 a service to purchase and keep track of offers
+               </div>
+             </div>
+           </div>
+
+
+
+         <div class="col-sm-4">
+           <div id="right-side">
+             <div class="title">
+               Sign Up
+             </div>
+
+
+             <form>
+            <li *ngFor=\"let account of accounts\">\n
+               <div class="form-group">
+                 <label for=\"merchant\">Merchant</label>
+                 <input type=\"text\" name=\"merchant\" [(ngModel)]=\"account.merchant\">
+               </div>
+               <div class="form-group">
+                 <label for=\"email\">Email</label>
+                 <input type=\"text\" name=\"email\" [(ngModel)]=\"account.email\">
+               </div>
+               <div class="form-group">
+                 <label for=\"Guid\">Guid</label>
+                 <input type=\"text\" name=\"guid\" [(ngModel)]=\"account.guid\">
+               </div>
+
+
+              <span style="text-align: right">
+                <button (click)=\"createAccount(account)\">Save</button>
+              </span>
+
+
+            </form>
+
+            </div>
+           </div>
+
+
+
+     <div class="col-sm-2">
+     </div>
+
+   </div>
+ </div>
+ </body>
+
+</html>\n`\n})\nexport class AppComponent {\n\n  public accounts: any = [];\n  public books: any = [];\n  public movies: any = [];\n\n  public email;\n\n  public account: Account = {\n    guid: '',\n    email: '',\n    merchant: '',\n  };\n\n  constructor(private _demoService: DemoService) { }\n\n  ngOnInit() {\n    this.getAccounts();\n    console.log(\"Vaidy 1\");\n    this.getBooksAndMovies();\n  }\n\n  getAccounts() {\n    this._demoService.getAccounts().subscribe(\n      // the first argument is a function which runs on success\n      data => { this.accounts = <Account[]>data},\n\n      // the second argument is a function which runs on error\n      err => console.error(err),\n      // the third argument is a function which runs on completion\n      () => console.log('done loading accounts')\n    );\n\n  }\n\n  getBooksAndMovies() {\n    this._demoService.getBooksAndMovies().subscribe(\n      data => {\n        this.books = data[0]\n        this.movies = data[1]\n      }\n      // No error or completion callbacks here. They are optional, but\n      // you will get console errors if the Observable is in an error state.\n    );\n  }\n\n  createAccount(account) {\n    account.email = account.email;\n    account.merchant = account.merchant;\n    account.guid = account.guid;\n    let acc = {name: name};\n    this._demoService.createAccount(account).subscribe(\n       data => {\n         // refresh the list\n         this.getAccounts();\n         return true;\n       },\n       error => {\n         console.error(\"Error saving Account!\");\n         return Observable.throw(error);\n       }\n    );\n  }\n\n  updateFood(food) {\n    this._demoService.updateFood(food).subscribe(\n       data => {\n         // refresh the list\n         this.getAccounts();\n         return true;\n       },\n       error => {\n         console.error(\"Error saving food!\");\n         return Observable.throw(error);\n       }\n    );\n  }\n\n  deleteAccount(account) {\n    if (confirm(\"Are you sure you want to delete \" + account.email + \"?\")) {\n      this._demoService.deleteAccount(account).subscribe(\n         data => {\n           // refresh the list\n           this.getAccounts();\n           return true;\n         },\n         error => {\n           console.error(\"Error deleting food!\");\n           return Observable.throw(error);\n         }\n      );\n    }\n  }\n}\n\n\n\n// WEBPACK FOOTER //\n// ./src/app/app.component.ts","import { NgModule, CUSTOM_ELEMENTS_SCHEMA }      from '@angular/core';\nimport { BrowserModule } from '@angular/platform-browser';\nimport { HttpClientModule } from '@angular/common/http';\nimport {FormsModule} from '@angular/forms';\nimport {DemoService} from './demo.service'\n\nimport { AppComponent }  from './app.component';\n\n@NgModule({\n    imports: [BrowserModule, FormsModule, HttpClientModule],\n    declarations: [AppComponent],\n    providers: [DemoService],\n    schemas: [CUSTOM_ELEMENTS_SCHEMA],\n    bootstrap: [AppComponent]\n})\nexport class AppModule { }\n\n\n\n// WEBPACK FOOTER //\n// ./src/app/app.module.ts","import {Injectable} from '@angular/core';\nimport { HttpClient, HttpHeaders } from '@angular/common/http';\nimport {Observable} from 'rxjs/Observable';\n\nconst httpOptions = {\n    headers: new HttpHeaders({ 'Content-Type': 'application/json' })\n};\n\n@Injectable()\nexport class DemoService {\n\n    constructor(private http:HttpClient) {\n    }\n\n    // NOTE: all API calls in this file use simple endpoints served by\n    // an Express app in the file app.js in the repo root. See that file\n    // for all back-end code.\n\n    // Uses http.get() to load data from a single API endpoint\n    getAccounts() {\n        return this.http.get('http://localhost:8080/getAccounts');\n    }\n\n    // Uses Observable.forkJoin() to run multiple concurrent http.get() requests.\n    // The entire operation will result in an error state if any single request fails.\n    getBooksAndMovies() {\n        return Observable.forkJoin(\n        this.http.get('/api/books'),\n        this.http.get('/api/movies')\n        );\n    }\n\n    // send a POST request to the API to create a new data object\n    createAccount(account) {\n        let body = JSON.stringify(account);\n        console.log(\"the body is \" + body);\n        return this.http.post('http://localhost:8080/register/', body, httpOptions);\n    }\n\n    // send a PUT request to the API to update a data object\n    updateFood(food) {\n        let body = JSON.stringify(food);\n        return this.http.put('/api/food/' + food.id, body, httpOptions);\n    }\n\n    // send a DELETE request to the API to delete a data object\n    deleteAccount(account) {\n        return this.http.delete('/api/food/' + account.email);\n    }\n\n}\n\n\n\n// WEBPACK FOOTER //\n// ./src/app/demo.service.ts","import { enableProdMode } from '@angular/core';\nimport { platformBrowserDynamic } from '@angular/platform-browser-dynamic';\n\nimport { AppModule } from './app/app.module';\n\nplatformBrowserDynamic().bootstrapModule(AppModule)\n  .catch(err => console.log(err));\n\n\n\n// WEBPACK FOOTER //\n// ./src/main.ts"],"sourceRoot":"webpack:///"}
